@@ -11,7 +11,7 @@ pip install git+https://github.com/ltzXiaoYanMo/LoCyanFrpLauncher.git
 ```
 或指定版本
 ```shell
-pip install git+https://github.com/ltzXiaoYanMoLauncher.git@1.0.0
+pip install git+https://github.com/ltzXiaoYanMo/LoCyanFrpLauncher.git@1.0.0
 ```
 
 ## 调用
