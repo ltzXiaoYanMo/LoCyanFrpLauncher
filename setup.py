@@ -7,7 +7,7 @@ setup(
     author_email="xiajiaruimail@qq.com",
     description="Python 库 - 乐青 Frp 启动器",
     url="https://github.com/ltzXiaoYanMo/LoCyanFrpLauncher",
-    requires=["requests"],
+    requires=["requests", "aiohttp"],
     packages=find_packages(),
     license="MIT License",
     long_description=open("README.md", "r", encoding="UTF-8").read(),
